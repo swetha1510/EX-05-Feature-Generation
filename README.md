@@ -154,7 +154,7 @@ df5
 ## Data Scaling using MinMaxScaler:
 ![dsex55](https://user-images.githubusercontent.com/120623583/234909345-e2bccad0-d3c4-41b8-9ba3-374444f03eeb.png)
 
-##Data Scaling using StandardScaler:
+## Data Scaling using StandardScaler:
 ![ex56](https://user-images.githubusercontent.com/120623583/234909763-fd742473-29da-450c-b48f-741fc88f5321.png)
 
 ## Data Scaling using MaxAbsScaler:
@@ -213,7 +213,6 @@ df5
 ![dsex526](https://user-images.githubusercontent.com/120623583/234910831-9c40b140-1450-4c8c-87bc-976a59c215e2.png)
 
 ## RESULT:
-
 Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
 
 
